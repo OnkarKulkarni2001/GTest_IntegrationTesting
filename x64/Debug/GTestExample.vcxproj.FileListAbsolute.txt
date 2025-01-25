@@ -1,0 +1,3 @@
+D:\Configuration & Deployment\GTestExample\x64\Debug\GTestExample.exe
+D:\Configuration & Deployment\Project1\x64\Debug\GTestExample.exe
+D:\Configuration & Deployment\Project1_OWN\x64\Debug\MainProject.exe
